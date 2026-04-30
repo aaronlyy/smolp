@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./media/capybara.png" width="100"></img>
+  <img src="./media/capybara.png" width="150"></img>
 </p>
 
 <h3 align="center">Capybara: Specification and implementation of capybara, a protocol build ontop of UDP for sending and receiving sensor data</h3>
