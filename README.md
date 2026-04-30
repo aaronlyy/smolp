@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./media/smol.png" width="150"></img>
+  <img src="./media/smol.png" width="200"></img>
 </p>
 
 <h3 align="center">smolp: Build and run your own <sub>smol</sub> protocol ontop of TCP/UDP using YAML</h3>
