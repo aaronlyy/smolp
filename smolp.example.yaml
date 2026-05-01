@@ -1,0 +1,13 @@
+name: smolp
+protocol: udp
+version: 1
+mode: default # or raw
+serializer: binary # or protobuf
+
+fields:
+  - name: sensorId
+    type: uint8
+  - name: sensorType
+    type: uint8
+  - name: sensorData
+    type: uint64
