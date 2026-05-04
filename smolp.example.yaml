@@ -1,5 +1,5 @@
 name: smolp
-protocol: udp
+base: udp
 version: 1
 mode: default # or raw
 serializer: binary # or protobuf
